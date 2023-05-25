@@ -4,9 +4,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DarkerLighter&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DarkerLighter&theme=dark&hide_border=false)<br/>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkerLighter&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Sublime's custom image"/>
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkerLighter&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DarkerLighter&icon=2&color=5)](https://visitcount.itsvg.in)
